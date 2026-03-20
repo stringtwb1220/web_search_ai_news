@@ -1,6 +1,5 @@
 {
-  "version": "1.0",
-  "author": "stringtwb",
-  "tags": ["news", "ai", "search"],
-  "requires_internet": true
+  "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
+  "slug": "web_search_ai_news",
+  "version": "1.0.0"
 }
