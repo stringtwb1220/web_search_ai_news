@@ -1,3 +1,16 @@
+---
+slug: web_search_ai_news
+name: Web Search AI News
+description: 实时获取最新的人工智能行业新闻和动态。
+version: 1.0.0
+tags:
+  - news
+  - ai
+  - search
+author: stringtwb1220
+license: MIT
+---
+
 # Skill Name: web_search_ai_news
 
 ## Description
